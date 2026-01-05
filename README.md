@@ -2,6 +2,8 @@
 
 **ZeroBG** 是一个极致精简、响应毫秒级的图片去背景（透明化）工具。它完全基于 HTML5 Canvas 开发，无需任何后端支持，支持剪贴板粘贴与精准吸色，是您处理 Logo、图标和简单素材的极速助手。
 
+👉 **[立即在线尝试 (Live Demo)](https://starsalwaysineyes.github.io/ZeroBG/standalone.html)**
+
 ![ZeroBG Demo](https://img.shields.io/badge/Speed-Zero--Latency-brightgreen)
 ![ZeroBG License](https://img.shields.io/badge/License-MIT-blue)
 ![ZeroBG Type](https://img.shields.io/badge/Standalone-Single--File-orange)
